@@ -1,0 +1,14 @@
+{
+  "name": "bank_webhook_handler",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.21.1",
+    "nodemon": "^3.1.7"
+  },
+  "devDependencies": {
+    "@repo/db": "*",
+    "@types/express": "^4.17.21",
+    "esbuild": "^0.17.19"
+  }
+}
